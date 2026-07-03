@@ -17,7 +17,7 @@ Solución RPA para el reto de conversión de monedas. Enunciado completo en el P
 Al finalizar el procesamiento de la cola, el robot calcula los totales (procesadas/correctas/fallidas), descarga la plantilla `PlantillaCorreo.html` desde el Storage Bucket, y envía el correo con `ReporteFinal.xlsx` adjunto mediante la integración nativa de Gmail (interfaz conectada de UiPath), tal como se especifica en el PDF, sin credenciales ni llamadas a API externas.
 
 **Prueba de recepción:** validado con envío real a la cuenta configurada en el asset `StrCorreoUsuarios`, con el reporte correctamente adjunto y la plantilla renderizada con los totales de la ejecución.
-![Correo recibido](Evidencia/correo-recibido.png)
+![Correo recibido](Evidencias/correo-recibido.png)
 
 ## Configuración en Orchestrator
 
