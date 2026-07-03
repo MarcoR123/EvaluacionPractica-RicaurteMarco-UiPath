@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="wTPEEP7dEEmyGSEwWzocqw" Reference="FC4GxdMw206VDySABpgtyA/FPsMwq36AkaE75XMhbauOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="_jpLAgCrTkebyRlLAa7WmA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIjSURBVDhPhVM7aFRBFH1+QbTwU6iNWlhYCCJooZWIglgEf2/OvGAELVZEkYTEuXe3cVELkYCNAT+liIXY+EG0EcEusYiwu3MnuhEVC7+NiCTiyp39mH0YPDDs3Ltzzty5574kySGQHQou292OK+V0oXd2S/epWfBuIF0khGkh1BtpOk9zns0xIfMhf3ZWeMJVITS8s4dizLggDs91/5rSNUIYDWR7u0g1stsDmTvVwd61teL+FYHw1RNeNJJkjpC9LoyRyf59S4VQU/HAJusSmGC7WQjfhOxnz9ke79AfDzocEIeHgW1BGPc1J2RvdpHb0NuF8EwIvwPhsjDeaBW6xJlHTTIq40N9i/PcDhrl8lxxOCWE7y2Crp+t31/C2CqETcHhqDgMe852JlqysC0HZ0+Ls33e2R4hWCFMzhDRpe6o8FQgOyZkrlRL2JjU2K4LhOOeLQU254IzF+MTCPWcwEdxuCaEI1I0e3U2tMn5VySvOF0vhLvi8DaW/VdgVC/xhHvqUsyxGewQ4xA5DAvhh3e4FEXIPBDCe22sED55wi2dzNirYrbhaXnH/I6AdlgY41qaJ5yIDjBScbghhNut/0c84fE/ndDujhUKCyaK6Ta9LT7FmbOe7PnKmXSVEL7ovjXaT/L8iJfcuyz672yPxs3hsSfjvunMdLV0eLUK5rkRlYF0eWCzqx3rRxTYHOzEbFEpp0s6hP9B7a2XspX5/Ez8AQXbbPlxq7NBAAAAAElFTkSuQmCC" Reference="FC4GxdMw206VDySABpgtyA/FPsMwq36AkaE75XMhbauOQ" Selector="&lt;html app='chrome.exe' title='Continuación del reto técnico en UiPath - Claude' /&gt;" Url="https://claude.ai/chat/a819476c-dc20-4d85-a6e3-dc308e0e95d5" Version="V3">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="3291d8a87d94bba1e6c690aa34604891.jpg" xmlns="">0fIMQGc_NWE-Q4xRz6n_Vkg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

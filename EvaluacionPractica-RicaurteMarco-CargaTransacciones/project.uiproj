@@ -1,0 +1,6 @@
+{
+  "Name": "EvaluacionPractica-RicaurteMarco-CargaTransacciones",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}

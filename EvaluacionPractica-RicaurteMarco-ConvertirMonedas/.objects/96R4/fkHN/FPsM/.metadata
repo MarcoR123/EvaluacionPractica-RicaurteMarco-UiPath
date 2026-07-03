@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Continuación del reto técnico en UiPat",
+  "Type": "Screen",
+  "Id": "FPsMwq36AkaE75XMhbauOQ",
+  "Reference": "FC4GxdMw206VDySABpgtyA/FPsMwq36AkaE75XMhbauOQ",
+  "ParentRef": "FC4GxdMw206VDySABpgtyA/fkHNtBmKw0CBkpxuJ9fdBg",
+  "Created": "2026-07-01T19:09:14.0342269Z",
+  "Updated": "2026-07-01T19:09:14.0342269Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

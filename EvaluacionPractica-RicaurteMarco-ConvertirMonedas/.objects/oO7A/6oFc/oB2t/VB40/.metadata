@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Amount",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "VB400LPQskeqThoxpWRksA",
+  "Reference": "FC4GxdMw206VDySABpgtyA/VB400LPQskeqThoxpWRksA",
+  "ParentRef": "FC4GxdMw206VDySABpgtyA/oB2tK5RrzEeDPGwZjZuegw",
+  "Created": "2026-07-01T19:30:47.3636452Z",
+  "Updated": "2026-07-01T19:30:47.3636452Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

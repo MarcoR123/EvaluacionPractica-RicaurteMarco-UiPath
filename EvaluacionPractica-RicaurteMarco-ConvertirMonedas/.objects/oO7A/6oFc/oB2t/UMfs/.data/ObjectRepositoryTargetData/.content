@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eUg126sMXUKbDMReGTLEaA" Reference="FC4GxdMw206VDySABpgtyA/UMfskiopMku53WWgG5LjBw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cloud.uipath.com/persobfwikfo/DefaultTenant/orchestrator_/queues/1220604/transactions(sidepanel:sidepanel/transactions/817318161/details)" DesignTimeRectangle="513, 684, 292, 160" ElementType="List" ElementVisibilityArgument="Interactive" FullSelectorArgument="[&quot;&lt;webctrl tag='LI' aaname='*&quot; &amp; in_MonedaOrigen &amp; &quot;*' /&gt;&quot;]" Guid="f078e457-405b-4f10-81e0-b51526bc5eba" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Currency Converter | Live Currency Exchange Rates Calculator' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="73cb7ce70c14cb37b01f68c16bfb365c.jpg" xmlns="">0TD1NoWEGPUW0_gJil1veCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Continuación del reto técnico en UiPath - Claude",
+  "Type": "App",
+  "Id": "96R4km8Me0ax5MDpuR2KgA",
+  "Reference": "FC4GxdMw206VDySABpgtyA/96R4km8Me0ax5MDpuR2KgA",
+  "Created": "2026-07-01T19:09:13.8691475Z",
+  "Updated": "2026-07-01T19:09:13.8691475Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
